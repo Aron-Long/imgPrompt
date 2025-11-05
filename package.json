@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "node server/index.js",
-    "start": "node server/index.js"
+    "start": "node server/index.js",
+    "build": "echo 'No build step required for Express app'"
   },
   "keywords": [
     "image",
