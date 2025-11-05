@@ -19,11 +19,5 @@
       "src": "/(.*)",
       "dest": "/public/$1"
     }
-  ],
-  "env": {
-    "COZE_API_TOKEN": "@coze_api_token",
-    "COZE_WORKFLOW_ID": "7569042190087159859",
-    "COZE_API_URL": "https://api.coze.cn/v1/workflow/run",
-    "PORT": "3000"
-  }
+  ]
 }

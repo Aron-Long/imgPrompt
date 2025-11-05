@@ -6,7 +6,10 @@
       "Bash(npm start)",
       "Bash(node:*)",
       "Bash(pkill:*)",
-      "Bash(git remote:*)"
+      "Bash(git remote:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
     ],
     "deny": [],
     "ask": []
